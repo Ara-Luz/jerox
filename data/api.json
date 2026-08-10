@@ -1,0 +1,3327 @@
+[
+  {
+    "name": "Star Sports Select 1 HD",
+    "id": "460",
+    "category": "Sports",
+    "keyId": "c2c048e439d65316beeda6ef64d5d0f8",
+    "key": "e2fdc132cbdee65501b845ce414fce39",
+    "logo": "https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports Select 1",
+    "id": "1123",
+    "category": "Sports",
+    "keyId": "ea7985dacbb95f1c9d62e5a1675142e5",
+    "key": "39d5910ca04841b5f32bf24623cdae58",
+    "logo": "https://img.media.jio.com/tvpimages/13/82/301994_1749664069587_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports Select 2 HD",
+    "id": "461",
+    "category": "Sports",
+    "keyId": "6017d0514d425fa38f6e80ba6dcc852f",
+    "key": "0018944b00adf2078f62386f30c68b74",
+    "logo": "https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports Select 2",
+    "id": "1114",
+    "category": "Sports",
+    "keyId": "ec7d009d07aa5cbc81a441880530dfa5",
+    "key": "8147983ad7402ebfc222d28b667a196f",
+    "logo": "https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 1 HD",
+    "id": "1106",
+    "category": "Sports",
+    "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
+    "key": "859695076e67fe961836b564db6d689c",
+    "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 1",
+    "id": "1142",
+    "category": "Sports",
+    "keyId": "df20894ec30954d3b28097c138f4cfda",
+    "key": "ff9b6292b1cddbd11a046029cb314634",
+    "logo": "https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee cinema",
+    "id": "484",
+    "category": "Movies",
+    "keyId": "90d8713ba5e85d779d005b1f14a5bc8d",
+    "key": "33650314fe1e945017640ba9878c5de9",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinema.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinema_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 1 Hindi HD",
+    "id": "1108",
+    "category": "Sports",
+    "keyId": "400131994b445d8c8817202248760fda",
+    "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
+    "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 1 Hindi",
+    "id": "362",
+    "category": "Sports",
+    "keyId": "8ea9b607549252068e260a5f4d7dd321",
+    "key": "350c0aaffedf51cc1502e9543c7c885e",
+    "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 2 HD",
+    "id": "1109",
+    "category": "Sports",
+    "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
+    "key": "e620a970cea474c491ac78ae71a4d764",
+    "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 2",
+    "id": "1141",
+    "category": "Sports",
+    "keyId": "fc3aafe80845584199a637249fad2ffa",
+    "key": "ca4474972fdb4bf8ecb164482853c692",
+    "logo": "https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 2 Hindi HD",
+    "id": "1984",
+    "category": "Sports",
+    "keyId": "bd1ea6a1c1fb5dcdb709434e0826bbc0",
+    "key": "f57f22cba32739ce7beb1fab3f3d060b",
+    "logo": "https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 2 Hindi",
+    "id": "1985",
+    "category": "Sports",
+    "keyId": "a3ed8dc0e0cb5d238da80ee0a85bd2e1",
+    "key": "67a96992e6406606f3480ab58d7f540c",
+    "logo": "https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 3",
+    "id": "1389",
+    "category": "Sports",
+    "keyId": "e4e8647eaf0659ac85f61765a5abcdc1",
+    "key": "d749c9b27505beb0e1a8b6c30ca65de6",
+    "logo": "https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 1 Tamil HD",
+    "id": "3277",
+    "category": "Sports",
+    "keyId": "2272c0bc6b2e5cb090b1f55996e0026c",
+    "key": "943923934de1d5536ab01c67fca8b337",
+    "logo": "https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 1 Tamil",
+    "id": "1124",
+    "category": "Sports",
+    "keyId": "d0d750ebd52b5756aa7fb833f61ceece",
+    "key": "4ae62a20c030c918aad24193c1dda229",
+    "logo": "https://img.media.jio.com/tvpimages/69/73/301995_1749664384503_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 1 Telugu HD",
+    "id": "3278",
+    "category": "Sports",
+    "keyId": "49e84b9edfd85379b90c81b7d2d3d2bf",
+    "key": "19c82d3ff094fa06af95820a1572ecb5",
+    "logo": "https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 1 Telugu",
+    "id": "1651",
+    "category": "Sports",
+    "keyId": "200a6dd89c6b5a48b9991d8ab57fc7d2",
+    "key": "1f62834669a97e92ea1f3263274853fc",
+    "logo": "https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 1 Kannada",
+    "id": "1650",
+    "category": "Sports",
+    "keyId": "9a6d058fa40b5460a946178900eb44cb",
+    "key": "791d7444110cec32d731ca0c33ac6c15",
+    "logo": "https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 2 Kannada",
+    "id": "1122",
+    "category": "Sports",
+    "keyId": "7af2add2968a56309519ac2680c18f25",
+    "key": "f992a14e0def17ccdfe16f58c4ce56c5",
+    "logo": "https://img.media.jio.com/tvpimages/11/37/301993_1749664589518_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 2 Tamil HD",
+    "id": "3273",
+    "category": "Sports",
+    "keyId": "dc44fe6251825774b90d58dcfa7d94e0",
+    "key": "63e3ae853f483a86752b5b9e6d61eb20",
+    "logo": "https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 2 Tamil",
+    "id": "2853",
+    "category": "Sports",
+    "keyId": "3c1b335c4bb858a7a6ac5a883d898a09",
+    "key": "6eeff4302a7d19befd43c6b7b5fac268",
+    "logo": "https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 2 Telugu HD",
+    "id": "3274",
+    "category": "Sports",
+    "keyId": "c8a2fb190fc957c1b8333af9a7a39d31",
+    "key": "be7497b59d4ce9e33d29bfd1d38bad1d",
+    "logo": "https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports 2 Telugu",
+    "id": "2852",
+    "category": "Sports",
+    "keyId": "6576a2664bc1563db2abd4fc192152b2",
+    "key": "452e28454297a4193dbdf8f5cebc70b0",
+    "logo": "https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Suvarna",
+    "id": "1117",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Plus",
+    "id": "1116",
+    "category": "Entertainment",
+    "keyId": "3bba2ffaf08b501796c5d9eb431460a4",
+    "key": "7a62074c4c46f3b153259526481c02bf",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Bharat",
+    "id": "1127",
+    "category": "Entertainmnet",
+    "keyId": "687cfa6d31645a91ba3c38a9acdfac7c",
+    "key": "c035ca584ac0a2170b96e2fa4523f3be",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Gold Select",
+    "id": "1119",
+    "category": "Movies",
+    "keyId": "09706397be655eb6a26c6ba99b65e6d5",
+    "key": "acb1ebe04e2a29fe098d532d7a506846",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Gold 2",
+    "id": "1154",
+    "category": "Movies",
+    "keyId": "2db0cd9cb0685309b48e322c83192bda",
+    "key": "e13bf7a33eb2e19a8f19568dd383ba6d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Pravah",
+    "id": "1121",
+    "category": "Marathi",
+    "keyId": "3fb941b7c6fe54fb8f66b19804eff952",
+    "key": "c1b742ed7b6d4eca1c6bdcb9041d9b80",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Pravah Picture",
+    "id": "3099",
+    "category": "Marathi",
+    "keyId": "d1644aff68865ecdb884c36a634c008f",
+    "key": "794529e9d938c592514a1eb9eb706da9",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Pravah HD",
+    "id": "336",
+    "category": "",
+    "keyId": "fb288091038b58b8839d202640bfe46f",
+    "key": "99bad05f52b77e9c2460545f631140dd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Pravah Picture HD",
+    "id": "3100",
+    "category": "",
+    "keyId": "0cb8027f563f5f32b27900a4a15c065f",
+    "key": "b29afa97e86a3df924dec4ba47bd84eb",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Gold HD",
+    "id": "156",
+    "category": "",
+    "keyId": "39b5c756c18355d9978fe6c6311b4891",
+    "key": "3aaa7efc64f9b81b91512d1af2c56e3c",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Gold",
+    "id": "1125",
+    "category": "Movies",
+    "keyId": "940a0a4080f553cab03ec23a2e80cf7c",
+    "key": "b162354170b54cb588182eb75681cac0",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Star_Gold.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Gold 2 HD",
+    "id": "3096",
+    "category": "Movies",
+    "keyId": "e6afa4754bc15dd28ab6806f417d319d",
+    "key": "6a74ef2884813547109ee96098610387",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Star_Gold_2_HD.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Gold Select HD",
+    "id": "1113",
+    "category": "",
+    "keyId": "8620bd6e911d5c6e88e3bcf4b4ad1f35",
+    "key": "7a8178e013c9af468cc4e2171b6f9857",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Plus HD",
+    "id": "1132",
+    "category": "",
+    "keyId": "c6255706bca250079aeaf1fc4474d1b9",
+    "key": "eab6217aac6f1feec103120e6218eb43",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Movies",
+    "id": "1115",
+    "category": "English Movies",
+    "keyId": "e705c9330a935a119021d97c7677ce62",
+    "key": "dd306a57de1715b0e1256d5c1737f485",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Star_Movies.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "And Xplore HD",
+    "id": "300322",
+    "category": "Entertainment",
+    "keyId": "67e52f4bdcfc525898be0446feb7f185",
+    "key": "8cf5c24b168105bca24b358eb05f6df4",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/AndXploreHD.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Maa",
+    "id": "1138",
+    "category": "Telugu",
+    "keyId": "6744a252854352acbfe40413a14fca0f",
+    "key": "1de605f98df36a7417eff631e1a0966a",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Star_Maa.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Maa_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Maa Movies",
+    "id": "1111",
+    "category": "Telugu",
+    "keyId": "f4c022053f355b4b9dca0093463d7ba0",
+    "key": "9f06388c48bfb94cff9797e25847d1d1",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Maa_Movies.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Maa Gold",
+    "id": "1137",
+    "category": "Telugu",
+    "keyId": "516d26778a21587484208637d89ff773",
+    "key": "77599313595e70e5903151b0592ffa15",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Maa_Gold.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Maa Music",
+    "id": "1129",
+    "category": "",
+    "keyId": "d66e0a9cac2853119c87b37d5dd7d25d",
+    "key": "4449938d983c27cc7e154ba51260aa24",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Music_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Vijay",
+    "id": "1130",
+    "category": "Tamil",
+    "keyId": "c5f2861efbc7552ba802dcae4e160359",
+    "key": "4ea32867828280a4d6f36ea8fbbe38eb",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Star_Vijay.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Asianet",
+    "id": "1118",
+    "category": "Malayalam",
+    "keyId": "6b68a5a175d45f0ba8ed12b3016ea4d8",
+    "key": "c7b8ce1a3a24e2f9b4d1249d04155c49",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Asianet.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Asianet Movies",
+    "id": "1153",
+    "category": "Malayalam",
+    "keyId": "ca83419dfa1b56f794032b271b8f2c84",
+    "key": "d592520eea361507a63c94bff799dfb6",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Asianet_Movies.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Talkies HD",
+    "id": "1358",
+    "category": "",
+    "keyId": "0e370273ac0f521c8ee529a886f2dc06",
+    "key": "c2bc9f42751680a68c006986fbf2f039",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTalkiesHD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Vijay Super",
+    "id": "1131",
+    "category": "Tamil",
+    "keyId": "737e9cc83a8a5a55a002fa3ca457244c",
+    "key": "a0285e3041ff5f4efae5361e12f759db",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Vijay_Super.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Sports Khel",
+    "id": "1998",
+    "category": "Sports",
+    "keyId": "ab947ddbb9795d38bff35597b4f73108",
+    "key": "2671e22eb7dc174c35b6aad4b113f7b0",
+    "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Sports18_Khel.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Zest HD",
+    "id": "2757",
+    "category": "",
+    "keyId": "ca19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "d5e96fcc387fdfa5d8f97d86c5a2304f",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeZestHD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeZestHD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "CNBC TV18 Prime",
+    "id": "143",
+    "category": "",
+    "keyId": "eb19113c11ce5cfb80c89696765a0187",
+    "key": "b2797ce5e403ee22d8e36c6d5f2b6630",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCTV18Prime_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Colors HD",
+    "id": "144",
+    "category": "",
+    "keyId": "5360e12d4bb2519a9148d1089a55908d",
+    "key": "7e8f500cef51595f3d43acafab1a8fb4",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "STAR GOLD 2 HD",
+    "id": "3096",
+    "category": "",
+    "keyId": "69d36c78eb11569493ce7ac00d9d6e87",
+    "key": "5121c719b63f0442e423db860b8c517f",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Movies Now HD",
+    "id": "151",
+    "category": "",
+    "keyId": "40f019b86241d23ef075633fd7f1e927",
+    "key": "058dec845bd340178a388edd104a015e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",
+    "mpd": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd"
+  },
+  {
+    "name": "Zee Talkies",
+    "id": "153",
+    "category": "",
+    "keyId": "2f20fb86cf6857b4b9048772dc9edc10",
+    "key": "5bc8fcee5dd070516dbdc665d3df989d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTalkies.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkies_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Cinema HD",
+    "id": "165",
+    "category": "",
+    "keyId": "f56beaac9f124616872c741c9ce4fa4e",
+    "key": "5d40a903238f4ad98abbed1877d4e3d1",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png",
+    "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd"
+  },
+  {
+    "name": "Cartoon Network Telugu",
+    "id": "166",
+    "category": "",
+    "keyId": "3e5ec63e26c1520380236941c3848f68",
+    "key": "f944e7ee9260a9e6239170db4d6fa713",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTelugu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNTelugu_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee TV HD",
+    "id": "167",
+    "category": "",
+    "keyId": "65c3633157574361b191059e46e72968",
+    "key": "78450b11381340c297d96c13183d3744",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png",
+    "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd"
+  },
+  {
+    "name": "Aaj Tak",
+    "id": "173",
+    "category": "",
+    "keyId": "569a346e50755a89afda4b7e5f47832e",
+    "key": "81941582803cabe21a8b080189089004",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Aaj_Tak_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Aastha",
+    "id": "175",
+    "category": "",
+    "keyId": "b64b98738ec7530a8b6a65840de1fb96",
+    "key": "82f2c494c0e20a4b6d20dc530e1b7731",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Aastha_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "ABP News India",
+    "id": "177",
+    "category": "",
+    "keyId": "8b8532e659a15d4ebfdb9675267140dd",
+    "key": "5543d80c89009902be168fcde8b561b2",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ABP_News_India_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Asianet News",
+    "id": "180",
+    "category": "",
+    "keyId": "8fe435016ea951b1b46d8cb42bb5d1fb",
+    "key": "6c8e2b478d008da76e829f631b8e259e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "B4U Movies",
+    "id": "182",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8"
+  },
+  {
+    "name": "B4U Music",
+    "id": "183",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_music/HLSPartner/index.m3u8"
+  },
+  {
+    "name": "& Pictures HD",
+    "id": "185",
+    "category": "",
+    "keyId": "de8045e9f0fb4d03845dcc4a8bd7712a",
+    "key": "6807bd09bda34ada83152908192af6d6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png",
+    "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd"
+  },
+  {
+    "name": "CNBC Awaaz",
+    "id": "190",
+    "category": "",
+    "keyId": "42f65ff4d850502fa9e51f860afb6db2",
+    "key": "d8082ea3b48b9a5ca4e9bb3c55ea71db",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCAwaaz_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "CNN",
+    "id": "193",
+    "category": "",
+    "keyId": "f3419eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "a42e3cc74b1bf790c36c554f11185bc1",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNN_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Colors Gujarati",
+    "id": "196",
+    "category": "",
+    "keyId": "f9e4ab5df6f959b1aa467724d09d73ef",
+    "key": "33cf9c6300a52b4ce4cafb6946860537",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsGujarati.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsGujarati_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD National",
+    "id": "202",
+    "category": "",
+    "keyId": "94de6872c91153af8ed28a60a9a68620",
+    "key": "d02b1539ff994afc78f043bcd178ccc6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_National_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD News",
+    "id": "203",
+    "category": "",
+    "keyId": "a2ba53a892b45061a32eb2f6e0a0e301",
+    "key": "d53ff9aa39871f6ef4a0cf0a4f1899f4",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Sports",
+    "id": "204",
+    "category": "",
+    "keyId": "e6bd071206ea552ba32a22496af8f2a5",
+    "key": "962e83890c212fb4fe0fdab30bc2ba0d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Sports_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "ET Now",
+    "id": "212",
+    "category": "",
+    "keyId": "e05bb7fccc9c541ebc3d180fb3004d1a",
+    "key": "fd8ff50906c9b384c894ec084f8b6aee",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ET_Now_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 Marathi",
+    "id": "232",
+    "category": "",
+    "keyId": "7950de19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "4a14e16f1696ece79b640f9abc3fc193",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18Lokmat.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18Lokmat_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "India TV",
+    "id": "235",
+    "category": "",
+    "keyId": "e154e00d8e0b5127b0825777e5226c59",
+    "key": "4a27d9f180d16094146e55e1f3fb198b",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/India_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Discovery English",
+    "id": "242",
+    "category": "",
+    "keyId": "1025acf964795689982726e2d16a73c5",
+    "key": "d88575df3e3d1adb7a82da65f0000aa6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Eng_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "MTV",
+    "id": "248",
+    "category": "",
+    "keyId": "c84c1d16aec75d83922576012f677b02",
+    "key": "cfb4f09bf78760c9caf7afcc2c74b6e7",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Music India",
+    "id": "250",
+    "category": "",
+    "keyId": "48240328d04d5e2ea776dd51a8098f8e",
+    "key": "2e30947d51d3f5164ba4bb20a8433c7d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Music_India_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "NDTV 24x7",
+    "id": "255",
+    "category": "",
+    "keyId": "9b5f319eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "e7ff670f95103a87bdb0ede3689f257b",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/NDTV_24x7_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "NDTV India",
+    "id": "258",
+    "category": "",
+    "keyId": "ee104f22af7759e198e7d37539c41047",
+    "key": "c1dbca553be670e76b01f23f06e72917",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/NDTV_India_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "NDTV Profit",
+    "id": "259",
+    "category": "",
+    "keyId": "4820dabfa373559fbe61715a48f2efa7",
+    "key": "05bf56082445768104f285d969164efa",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/NDTV_Profit_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Colors Rishtey",
+    "id": "279",
+    "category": "",
+    "keyId": "baf92e22e64d5de39d46ddb024cb589b",
+    "key": "b19a35807713524b7698bf55cc47dee6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsRishtey_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Animal Planet HD English",
+    "id": "286",
+    "category": "",
+    "keyId": "aafd067e9c3e50c4b25c239373b92103",
+    "key": "4a3162f66c9bb5e24d05873bf7aa05f2",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHDEng_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sanskar",
+    "id": "288",
+    "category": "",
+    "keyId": "ec0de96aee1c5b389df50f5cbc556e46",
+    "key": "3405c00e6b634519febed3948e9e400c",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sanskar_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "sonic Tamil",
+    "id": "290",
+    "category": "",
+    "keyId": "a62d4ca4ef095564bede0fe525956634",
+    "key": "5e34a5126bfe29c18947046513f18cce",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "SET",
+    "id": "291",
+    "category": "",
+    "keyId": "041a2752e99f5c6c8d4835fe221e16de",
+    "key": "73bc7d13c8beb7aa7f798e717544e005",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "SET HD",
+    "id": "291",
+    "category": "",
+    "keyId": "17baf7d2f243c3aa85f5203137aad6da",
+    "key": "15d0fb6df895c4d18368f5058f207511",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Jalsha HD",
+    "id": "317",
+    "category": "",
+    "keyId": "4b35e987730e55528cf07a0ef12b10e1",
+    "key": "3fcc6d95fc399ff2814024d337cfa116",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Vijay HD",
+    "id": "368",
+    "category": "",
+    "keyId": "25dd000e5523540cbd82ae7957fef7d7",
+    "key": "f1d145d84b648242ef0b3ad2cac7eeb8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Vijay_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Suvarna HD",
+    "id": "370",
+    "category": "",
+    "keyId": "06e62512072d5c2e97011b257bb07a53",
+    "key": "ab485023ecc56687ad10862c6006d0da",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Times NOW",
+    "id": "383",
+    "category": "",
+    "keyId": "f4738519eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "3185c90e3f2b9a4932644cad4a70dab4",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Times_NOW_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "PM e Vidya 01",
+    "id": "400",
+    "category": "",
+    "keyId": "830ca8d6b47b5dfca852aff8cd66d2d6",
+    "key": "6a57fcc28e366661ac1f55b415a94f48",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_1.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/evidya_1_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Swayam Prabha 19",
+    "id": "401",
+    "category": "",
+    "keyId": "737bce6a349b5d17b6b74fc764daf5b6",
+    "key": "ab94ce14ea4ae907d6b8d08dd6cfcc23",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Swayam_Prabha_19_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "PM e Vidya 02",
+    "id": "402",
+    "category": "",
+    "keyId": "6986da909e1d5a8bacd4e1dae0df7ad3",
+    "key": "8e46bd4a0a18711c2c023bcafa0206b2",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_2.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/evidya_2_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Swayam Prabha 20",
+    "id": "403",
+    "category": "",
+    "keyId": "7504e5702a4e52dcbf6164eebd6184e5",
+    "key": "2146ffaff1bc33037acb91cab4195429",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Swayam_Prabha_20_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "PM e Vidya 07",
+    "id": "404",
+    "category": "",
+    "keyId": "e0a3ed44978c5c0e9909f7e322d85c5f",
+    "key": "19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_7.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/evidya_7_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "PM e Vidya 03",
+    "id": "405",
+    "category": "",
+    "keyId": "a87bf21032615011a7beda3d1343e000",
+    "key": "e439896e2b88c3fb20d8fb4a2006554d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_3.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/evidya_3_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "PM e Vidya 04",
+    "id": "406",
+    "category": "",
+    "keyId": "c1a93ed077365f978fdbf3aea4ae4dc3",
+    "key": "a23ec94f4d92d42606b6c7e3458f3e8d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_4.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/evidya_4_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "PM e Vidya 05",
+    "id": "407",
+    "category": "",
+    "keyId": "47da4019eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "e14d43797be24aa532cc037e499a07c0",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_5.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/evidya_5_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "PM e Vidya 06",
+    "id": "408",
+    "category": "",
+    "keyId": "9043826f4c8c5816b0ad48a4c604cda6",
+    "key": "557de2868de0e2499c7af6e7d5d32733",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_6.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/evidya_6_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "PM e Vidya 08",
+    "id": "409",
+    "category": "",
+    "keyId": "db9259083279570398eb38506228e5f6",
+    "key": "3d51d471441b327c00d3ac7bcf5f482d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/_evidya_8.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/evidya_8_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "PM e Vidya 09",
+    "id": "410",
+    "category": "",
+    "keyId": "8d923b31479d55c58accbfc99e713f5a",
+    "key": "9bfde251e86fa8601570a5368f700e38",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_9.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/evidya_9_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "PM e Vidya 10",
+    "id": "411",
+    "category": "",
+    "keyId": "fe435238aee450168130a14fcdd2977b",
+    "key": "c93cf32f3dd7ef87f4b35cbb3eae96b7",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_10.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/evidya_10_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Wion",
+    "id": "412",
+    "category": "",
+    "keyId": "26812cad4906538183f20eb46507ef50",
+    "key": "8db3a3e598078d516ec23a7ce016f83e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Wion_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Cinemalu",
+    "id": "413",
+    "category": "",
+    "keyId": "e6cbcc37865353abb23766638ca5d405",
+    "key": "fcdddffe9027fbf34c3bdb5f91cc5847",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemalu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeCinemalu_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Yuva",
+    "id": "414",
+    "category": "",
+    "keyId": "d48e6651418f51e89ae6cf9d5ce11b98",
+    "key": "f3333c49b77751c4cdc874908ebe7c31",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeYuva.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeYuva_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Anmol Cinema",
+    "id": "415",
+    "category": "",
+    "keyId": "819eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "468a0b8d3d5d42d8a5c41bb875390a74",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png",
+    "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd"
+  },
+  {
+    "name": "J Movies",
+    "id": "417",
+    "category": "",
+    "keyId": "5319eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "3e4eef5502a6da48b91894c33310ea93",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/J_Movies_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Jaya Plus",
+    "id": "418",
+    "category": "",
+    "keyId": "e1aefaf169735829b2a6fb77e403eac2",
+    "key": "941252b4e0873390b6909258b7fc5b89",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Jaya TV HD",
+    "id": "419",
+    "category": "",
+    "keyId": "19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "0e67031411209bb0688a8808cf8232f9",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_TV_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Jaya Max",
+    "id": "420",
+    "category": "",
+    "keyId": "5a6b703b87a75a728a8079ff3c5aa991",
+    "key": "21295df12a0e76c1c15389b19cb85f21",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Max_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Colors Tamil HD",
+    "id": "429",
+    "category": "",
+    "keyId": "baef1ec2689b57478d44a4138c0deeb7",
+    "key": "e264b8d2dd6661ca6ca8540bffc44638",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsTamilHD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "9X Jalwa",
+    "id": "440",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9XJalwa.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/9XJalwa/HLSPartner/index.m3u8"
+  },
+  {
+    "name": "9x Jhakaas",
+    "id": "441",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9xjhakaas.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/9xjhakaas/HLSPartner/index.m3u8"
+  },
+  {
+    "name": "Zee 24 Taas",
+    "id": "442",
+    "category": "",
+    "keyId": "d7333200484559e8953e830aa6ed10cf",
+    "key": "2bd07c70bff76713485e28e2ba22eb4e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_24_Taas_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Asianet HD",
+    "id": "443",
+    "category": "",
+    "keyId": "ce59e82f061f57c5a423d3342ae4cb7d",
+    "key": "5218a59b8da17a2b2e4b217802f716f0",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Marathi",
+    "id": "445",
+    "category": "",
+    "keyId": "6926b72412225200bc3622da23dfd90c",
+    "key": "07a39d35219cfb5fdcc84213491bf302",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeMarathi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Jalsha Movies HD",
+    "id": "457",
+    "category": "",
+    "keyId": "95df1fecc9b851b1868ee07e04e928a8",
+    "key": "53959039734c3c074c8e57106fcf1d2e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Asianet Movies HD",
+    "id": "459",
+    "category": "",
+    "keyId": "24618205971e53fa871bdf9c7b56bffb",
+    "key": "751c4311a428fccbd4dda0a74991eb67",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Discovery HD English",
+    "id": "463",
+    "category": "",
+    "keyId": "a2a9c24afabd5fe0aa2ce9d4fa09f892",
+    "key": "8d1869108cc2ee010b756662ee8ec65e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDEng.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryHDEng_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee 24 Ghanta",
+    "id": "464",
+    "category": "",
+    "keyId": "d395f7decfe956f3b78a33f629b39a34",
+    "key": "9a774e4d71fdbed14373e9a809504ccd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/24_Ghanta_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Jaihind tv",
+    "id": "465",
+    "category": "",
+    "keyId": "8cef787469f052b5b32bff6daf6a8ea9",
+    "key": "f1a9609651aebba633bd7487fc24959a",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jaihind_tv_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Dharma Sandesh",
+    "id": "466",
+    "category": "",
+    "keyId": "33ca289abacf560687cb9b7dd2bb49bb",
+    "key": "569f83b52859701da5197d895e15b8d5",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Arihant_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sony SAB HD",
+    "id": "471",
+    "category": "",
+    "keyId": "f223cf2122d7510da9fcec6e523ffba1",
+    "key": "c55848470f58d3bd934fbfe844522b0e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sony SAB",
+    "id": "154",
+    "category": "",
+    "keyId": "ba4d9b38517552de9654d3652d27933b",
+    "key": "31e7cbf3d289d3116386457ed8bac3a2",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "& TV HD",
+    "id": "undefined",
+    "category": "",
+    "keyId": "67d18634ccb04875875c60fb8d9caaba",
+    "key": "99a66471c09e4b8a8dc39a0de6803f75",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png",
+    "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd"
+  },
+  {
+    "name": "Anmol TV",
+    "id": "473",
+    "category": "",
+    "keyId": "dc1c10d157cd56d5a7feaf6540578860",
+    "key": "227a41f602baeac002e6cdc46c000e19",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmol.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAnmol_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sony Pal",
+    "id": "474",
+    "category": "",
+    "keyId": "5b5b4b88f3005b0489034d25478292eb",
+    "key": "a401861fb99d6e41c9d9e309ca9837b3",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPAL_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sony Max HD",
+    "id": "476",
+    "category": "",
+    "keyId": "9d2bfb4c9aa45ac488bd92ec0e351217",
+    "key": "c980b395f0be528c4233417ef6305274",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "MN+ HD",
+    "id": "477",
+    "category": "",
+    "keyId": "40f019b86241d23ef075633fd7f1e927",
+    "key": "058dec845bd340178a388edd104a015e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png",
+    "mpd": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd"
+  },
+  {
+    "name": "TLC HD English",
+    "id": "479",
+    "category": "",
+    "keyId": "a7a544c972e7520fbe89f80191c21a7b",
+    "key": "f7e753d587b7e33814e6eeb2a4c97d99",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHDEnglish.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHDEnglish_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Colors Cineplex",
+    "id": "482",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sony MAX2",
+    "id": "483",
+    "category": "",
+    "keyId": "18e4c354db7c506d996698caeced99d0",
+    "key": "bba5064a2c162761bb92a15170c88b75",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX2_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Bollywood",
+    "id": "487",
+    "category": "",
+    "keyId": "b82b04755c355ebea0ca43bff527b5c7",
+    "key": "3eb9c71283384f46634bd0dc3d354e2c",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBollywood_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Action",
+    "id": "488",
+    "category": "",
+    "keyId": "80e87d88c856547a917ed83f62656cd7",
+    "key": "c68fcd4330e5f188793df509bb5e19a6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAction.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAction_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "CNBC TV18",
+    "id": "489",
+    "category": "",
+    "keyId": "7d27b289d14d5c848e1895b9a01736b1",
+    "key": "f8119bd071b4d570485d16862c71b100",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCTV18_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "CNBC Bajar",
+    "id": "490",
+    "category": "",
+    "keyId": "8ca6734f70e25b33bd5654447f4ef20f",
+    "key": "258a7781ee965efea063673f1332f251",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCBajar.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCBajar_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Mirror Now",
+    "id": "491",
+    "category": "",
+    "keyId": "31c8a1fd926d54839b090013bb7d7ca5",
+    "key": "70d1ffffae4cfa692345ac48a52bc05a",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MirrorNow.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/MirrorNow_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "CNN NEWS18",
+    "id": "492",
+    "category": "",
+    "keyId": "2fa08ae2c23e5be0b06ab278caf3878b",
+    "key": "621275ac111738f9ec0bb62d9ffefa94",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNNNEWS18.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNNNEWS18_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "India Today",
+    "id": "493",
+    "category": "",
+    "keyId": "7a02be4c9b4c57c3b7fcc363884863ed",
+    "key": "8637cb3a2db420673e1d39a126999ead",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/India_Today_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "AL Jazeera",
+    "id": "494",
+    "category": "",
+    "keyId": "0af9d2e938e2577ea544d97aead0b85f",
+    "key": "8e3388e20ad99cabbc10b233d92dd411",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/AL_Jazeera_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News X",
+    "id": "495",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News_X_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "dw",
+    "id": "496",
+    "category": "",
+    "keyId": "7419eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "878592e4293c85e49b0d3298aa9d0ff5",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/dw.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/dw_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "India news",
+    "id": "498",
+    "category": "",
+    "keyId": "8b7c7fdeb7595cf5a21a85684b457d9a",
+    "key": "ec530053a25bdd83810397d751edfa4c",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/India_news_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News Nation",
+    "id": "499",
+    "category": "",
+    "keyId": "9a3ff4042ac95fca86ed647d98d955d2",
+    "key": "072583c98a32adde4a9e496d352d57ee",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News_Nation_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News 24",
+    "id": "501",
+    "category": "",
+    "keyId": "200e875833725c1d8913a1cb40d1a2cc",
+    "key": "a19c3e308ee9b75e0c933574f660bde1",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News_24_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Good News Today",
+    "id": "502",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Tez_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "IBC24",
+    "id": "503",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/IBC24_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee News",
+    "id": "504",
+    "category": "",
+    "keyId": "643816b8692553f7af08ed5dbe9585bb",
+    "key": "e2136ac8b8b57f625140e586fc8224c8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "VIP News",
+    "id": "510",
+    "category": "",
+    "keyId": "7f84485ed9f1565c906f4710bb00b176",
+    "key": "26c92d1ad610ae018ef51fcb9fe615f8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/VIP_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Mh One News",
+    "id": "511",
+    "category": "",
+    "keyId": "cd393086e9f455e9863cde510ab337cd",
+    "key": "660d8d2c8969894b28b2f8cef163013b",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Mh_One_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "India News UP",
+    "id": "512",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/India_News_UP_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "India News Rajasthan",
+    "id": "513",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/India_News_Rajasthan_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "India News MP",
+    "id": "515",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/India_News_MP_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "India News Haryana",
+    "id": "516",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/India_News_Haryana_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Chardikla Time TV",
+    "id": "517",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Chardikla_Time_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sudarshan",
+    "id": "518",
+    "category": "",
+    "keyId": "bd3fd95251d05cd1a49ec1fa8db78aa2",
+    "key": "3b1edd11965a185e71306248fc2ee366",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sudarshan_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sadhna News Plus",
+    "id": "519",
+    "category": "",
+    "keyId": "8dbfb4c01de65e32809a0c64b958412c",
+    "key": "1936c8901d2add5bfc2d7dd599b93f9f",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sadhna_News_Plus_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sansad TV HD",
+    "id": "520",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Rajyasabha_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sansad TV",
+    "id": "522",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Loksabha_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Investigation Discovery Hindi",
+    "id": "527",
+    "category": "",
+    "keyId": "9aef395dfa3c501f9bacf0ccf76ef6da",
+    "key": "76e19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHindi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/IDHindi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD India",
+    "id": "528",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_India_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 MP Chhattisgarh",
+    "id": "529",
+    "category": "",
+    "keyId": "55979d37098a59b89d11dca4243cd68a",
+    "key": "19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18MPCG.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18MPCG_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 UP Uttarakhand",
+    "id": "530",
+    "category": "",
+    "keyId": "2381d8fb22135c8d84800e6416fe171f",
+    "key": "048babae7dd9e4d4256aabb052e6a1c0",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18UPUttarakhand.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18UPUttarakhand_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 Rajasthan",
+    "id": "531",
+    "category": "",
+    "keyId": "be8e4b2cc60e5a54b751b152923088bc",
+    "key": "a9b7e6b36758bde8ad447baf81556bcc",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18Rajasthan.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18Rajasthan_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj Pariwar",
+    "id": "533",
+    "category": "",
+    "keyId": "45c14653eebe5a82a0ebdbab4e1ff826",
+    "key": "6005db84eb31702d9b3ac840848c6864",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Pariwar_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Madhya Pradesh",
+    "id": "536",
+    "category": "",
+    "keyId": "391206c7de8a54b58499b9e8097e3694",
+    "key": "a0d96bf7b37bfc54907863300bea5dbf",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Madhya_Pradesh_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Rajasthan (Jaipur)",
+    "id": "538",
+    "category": "",
+    "keyId": "b9d582dc9cf558ab91536ddef494e5f9",
+    "key": "450dafd4dfa4e35afadaeb4b229fc108",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Rajasthan_Jaipur_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Bihar",
+    "id": "539",
+    "category": "",
+    "keyId": "d5530633810a5dfa9500cbe5131bf52d",
+    "key": "71ce30bd40e97ad61a0db640ce2d72e9",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Bihar_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Uttar Pradesh",
+    "id": "540",
+    "category": "",
+    "keyId": "3c35d2332d1d56d38ff0bf35755dfd87",
+    "key": "a1d212527cfeed1153fe062f99aeb615",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Uttar_Pradesh_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Discovery Turbo",
+    "id": "541",
+    "category": "",
+    "keyId": "237b2519eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "46f8006b1fc251354aadf4537c42d997",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Turbo_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Pogo Tamil",
+    "id": "542",
+    "category": "",
+    "keyId": "ace8ad8aaff258edb8743bea9825d2d2",
+    "key": "89bbc643fba2d72470ee30668ec749c9",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Tam_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Nick Telugu",
+    "id": "543",
+    "category": "",
+    "keyId": "df95eed20e955879a75aba7a834213ba",
+    "key": "7b52568720e54c7b28d998415298d50f",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Tel_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Nick Junior",
+    "id": "544",
+    "category": "",
+    "keyId": "05cfc30814e85bf583d62ca83b816d56",
+    "key": "7a82110ea07a874a019c1402ac0d5339",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Junior_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Nick Hindi",
+    "id": "545",
+    "category": "",
+    "keyId": "c2adcfad63a35590b854ad5f2a0196da",
+    "key": "c33d877834cab56aefcee23b05430b2e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Nick Tamil",
+    "id": "546",
+    "category": "",
+    "keyId": "7abfb289bb2f5747be84407b70dbd689",
+    "key": "c5745d4c06cb52aff050298db0f7d9d9",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Tam_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Nickelodeon Jr.",
+    "id": "548",
+    "category": "",
+    "keyId": "aa04d2fbafc55891b207f51d7ecca936",
+    "key": "5fd9741321499a18954304ef9c57ab8a",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Jr_Hin_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Discovery Kids Tamil",
+    "id": "550",
+    "category": "",
+    "keyId": "527df4ddb18a530db7565fff6c06263f",
+    "key": "b4ca95df03a230ba8e23a7226de77d05",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsTam.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsTam_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Discovery Kids Hindi",
+    "id": "554",
+    "category": "",
+    "keyId": "001a44205b2158be9db4bca1636ae5ac",
+    "key": "9d1bddb7d66d4a73801abde7bc460a89",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsHin_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Kochu TV",
+    "id": "556",
+    "category": "",
+    "keyId": "0302f2d727d6513eb9ee9d88b42dab6c",
+    "key": "ddefe13383dcb3e287aff9eaf7855390",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kochu_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Pogo Hindi",
+    "id": "559",
+    "category": "",
+    "keyId": "d19984624fc15209b3cb5cf3bf99232f",
+    "key": "baca6aa9494ed43cf02975eda742eeab",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Hindi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "GOOD TiMES",
+    "id": "560",
+    "category": "",
+    "keyId": "9e19a0d2ae5e5123b03fd29fcb7e6e16",
+    "key": "ced94c8516a1983cd2550f42a064f624",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/NDTV_Good_Times_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Food Food",
+    "id": "561",
+    "category": "",
+    "keyId": "e66075d32ada52f1a8160bc1c7e86375",
+    "key": "1bd48d53d027a73a9b8f69469f8be19f",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Food_Food_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Kaumudy TV",
+    "id": "563",
+    "category": "",
+    "keyId": "11b2468a2aaf5b6cab8aed101783e444",
+    "key": "cb302b5c4c15bfc3b4571859865a813b",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kaumudy_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Animal Planet Hindi",
+    "id": "566",
+    "category": "",
+    "keyId": "36a58e03204353d8a081ca60edce2fff",
+    "key": "fb8bd1208c9055648d83ed963764c783",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHin.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHin_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Animal Planet English",
+    "id": "567",
+    "category": "",
+    "keyId": "1450e9d1c9a55f1286de4248af9cea63",
+    "key": "0166ba733e295ded7095629c33790c0e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetEng.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetEng_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Discovery Science English",
+    "id": "568",
+    "category": "",
+    "keyId": "62b9ef8c1ca65d6d8d7fdd982edfeab1",
+    "key": "f9b3e80925fa7227a45322d53c8dd269",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryScienceEng.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryScienceEng_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "D Tamil",
+    "id": "569",
+    "category": "",
+    "keyId": "28cc7ab1093057648dc408417bb57d43",
+    "key": "45d146719c37669b4ab7f700fe63e82f",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Tamil_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "TLC Hindi",
+    "id": "571",
+    "category": "",
+    "keyId": "e50aa8136d3f58bc97b00d2cc9e6517e",
+    "key": "c5be8d5c21caee8ec290d4ac6a558b22",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHindi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHindi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee UP UK",
+    "id": "572",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Living_Foodz_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Discovery Bengali",
+    "id": "573",
+    "category": "",
+    "keyId": "d16b43f3e1be5634914a63e9a23f7e20",
+    "key": "dd103236260a3dfe448871a671cba00e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Ben_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "TLC English",
+    "id": "574",
+    "category": "",
+    "keyId": "3c7c24510783535b881316714dbcf969",
+    "key": "65c80b05551424532dae2c2da73ef7d8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCEnglish.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/TLCEnglish_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Discovery Hindi",
+    "id": "575",
+    "category": "",
+    "keyId": "a77c9893335a5c7da2b32343d0dfff50",
+    "key": "26d646a63b8b006dd1317ce69e2132e6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Hindi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Discovery Telugu",
+    "id": "576",
+    "category": "",
+    "keyId": "57f1b2ef267e54e2a01f65d172f2cdca",
+    "key": "cbfb990d2343da92cf4daa209963d0b6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Tel_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "History TV18 HD Telugu",
+    "id": "577",
+    "category": "",
+    "keyId": "0d0ccc0ee7e8560b93b3d3e639ea32b0",
+    "key": "7beacbf5552dc159e5373fba32e2e5ea",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Telugu_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "History TV18 HD Hindi",
+    "id": "578",
+    "category": "",
+    "keyId": "d54023f9a77158a5a192c68e8d3086d6",
+    "key": "dddf9f57a4ab5fc9c605545f13ebca94",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Hindi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "History TV18 HD Tamil",
+    "id": "579",
+    "category": "",
+    "keyId": "0f93719eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "d87519eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Tamil_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD bharati",
+    "id": "580",
+    "category": "",
+    "keyId": "8432e9d1184f58829a77b9b5a48fd06b",
+    "key": "a416934cede1d9c1ba0c8ec1018583e1",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_bharati_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Kisan",
+    "id": "583",
+    "category": "",
+    "keyId": "d6eee819eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "800b6e082f92c548d9638375dea7a0a1",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Kisan_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zing",
+    "id": "585",
+    "category": "",
+    "keyId": "648632d8a99d59ef86fd651405ffb587",
+    "key": "027c47023b8eb258db20ac6ae7ba46a8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeZing.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeZing_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "9XM",
+    "id": "587",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9xm.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/9xm/HLSPartner/index.m3u8"
+  },
+  {
+    "name": "E 24",
+    "id": "591",
+    "category": "",
+    "keyId": "00ca7fea402a577f9fa7acf42f44af0b",
+    "key": "f2513e4d0a1ad05a97cc36e550cb799d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/E_24_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "ZOOM",
+    "id": "592",
+    "category": "",
+    "keyId": "19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "b0c84f4255ba4f8082c9b13089ddb9cc",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zoom_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sadhna",
+    "id": "593",
+    "category": "",
+    "keyId": "b84437e9f0e756d9b7f43bc85740127d",
+    "key": "b6540321bb80bb7790f69ca25a469d41",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sadhna_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Aastha Bhajan",
+    "id": "594",
+    "category": "",
+    "keyId": "8f934dbf4a685ce89edd21ea480659ab",
+    "key": "07770764558e7951c7c2396177acfc17",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Aastha_Bhajan_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Prarthana Life",
+    "id": "595",
+    "category": "",
+    "keyId": "697b18659c5259a39cb42b3e2e4a3dd0",
+    "key": "4c45cfde3c749c975ae09d548351833c",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Life.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Prarthana_Life_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Jinvani TV",
+    "id": "596",
+    "category": "",
+    "keyId": "ccc6986b0b79525888d52baf1c5c5ad7",
+    "key": "02a419eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jinvani_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Satsang TV",
+    "id": "597",
+    "category": "",
+    "keyId": "55042944608f500b9a6d7e8e05815236",
+    "key": "6f4ed5955892a80eab1c2092729086c3",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Satsang_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sri Venkateshwar Bhakti",
+    "id": "598",
+    "category": "",
+    "keyId": "4e5c224b85ca565f9d0a3233ac1f259f",
+    "key": "04442d2dd2af50d598a3c24d5a22334c",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sri_Venkateshwar_Bhakti_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Disha tv",
+    "id": "599",
+    "category": "",
+    "keyId": "75d702b4efd05bbfbce2006958c700f7",
+    "key": "5d32400200927ee06fc1d179b22840f8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Disha_tv_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Ishwar TV",
+    "id": "601",
+    "category": "",
+    "keyId": "6d627f6c9dd95abe9a76917cc22312b9",
+    "key": "722439f5e1c03a30cbfe54c993801391",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ishwar_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Paras tv",
+    "id": "602",
+    "category": "",
+    "keyId": "d395f7decfe956f3b78a33f629b39a34",
+    "key": "9a774e4d71fdbed14373e9a809504ccd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Paras_tv_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Nambikkai",
+    "id": "603",
+    "category": "",
+    "keyId": "00628b0fba225f75858592e885e25d71",
+    "key": "519ebd246a95f0055f4977105bc81d42",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nambikkai_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Channel Win",
+    "id": "605",
+    "category": "",
+    "keyId": "aad09074f4d55f198539b690a3c15281",
+    "key": "515716aac35fb1338cf407ede1adb569",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Win.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Channel_Win_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Shalom",
+    "id": "606",
+    "category": "",
+    "keyId": "74dcc8ceb90d5bd1ae9ce05922e1fdc6",
+    "key": "792cbbbe6f0fb5aa2b3ce386985dbb13",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Shalom_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Subhavartha TV",
+    "id": "607",
+    "category": "",
+    "keyId": "dd6016b52d4c563a99818f7919d5051a",
+    "key": "c3d2d6236fcff45c8f4799b1ccad47e7",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Subhavartha_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Shubhsandesh TV",
+    "id": "608",
+    "category": "",
+    "keyId": "d2a0dbbb13ab511b9c6b8859df123191",
+    "key": "c6c4ffa20d5046fc10a5b849d3c212cd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Shubhsandesh_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "mh1 Shraddha",
+    "id": "609",
+    "category": "",
+    "keyId": "b0b7dc4789c358fe85382d64799920f4",
+    "key": "fa71ead5e34af6ceefe099a94893acf8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/mh1_Shraddha_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Darshan 24",
+    "id": "611",
+    "category": "",
+    "keyId": "b6857c1a015754f3b3b6eaae64e03ba4",
+    "key": "ad1e46cf81e22bc20a7787b6423c3365",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Darshan_24_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "ABP Majha",
+    "id": "612",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ABP_Majha_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Newslive",
+    "id": "613",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Newslive_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 Tamil nadu",
+    "id": "615",
+    "category": "",
+    "keyId": "4c4a4f1133895b87ad55e29bfc12d0f5",
+    "key": "d30a43b4a5880b6a31916d6952548307",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18TamilNadu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18TamilNadu_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "TV9 Gujarat",
+    "id": "616",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Tv_9_Gujarat_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "TV9 Maharashtra",
+    "id": "617",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/TV9_Maharashtra_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "TV9 Telugu News",
+    "id": "618",
+    "category": "",
+    "keyId": "526b422853c0528ba3ffc22f2705af27",
+    "key": "bb4f477e75150db68b7184669687de7d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/TV9_Telugu_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "TV9 Karnataka",
+    "id": "619",
+    "category": "",
+    "keyId": "120b4bd8567959ffa4af18bb52cf26a4",
+    "key": "0dd7d21ffcb54ac89a493b6701915d13",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/TV9_Karnataka_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 Gujarati",
+    "id": "620",
+    "category": "",
+    "keyId": "59d73fa78ca35442a72d65393c93366e",
+    "key": "32f7c86ee8714c73c5e7faf5506f5bbb",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18Gujarati.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18Gujarati_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Rang",
+    "id": "623",
+    "category": "",
+    "keyId": "00c8a01a037153508da683c6f9921106",
+    "key": "5d3f875a5593da82fd0b00e754c50bac",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Rang_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Prag News",
+    "id": "624",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Prag_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Prag_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Bangla",
+    "id": "625",
+    "category": "",
+    "keyId": "811e683089455a1fa9c7e0d5d2bdb5fd",
+    "key": "2782858ad6e8d5a7964ddcd7c2cdb207",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBangla.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBangla_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Suvarna News",
+    "id": "626",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 Assam NE",
+    "id": "627",
+    "category": "",
+    "keyId": "24b928ee58a15c0282f8c394758f1f58",
+    "key": "26661ad569d25153f4091bf3ca23d211",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18AssamNE.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18AssamNE_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Tamil",
+    "id": "628",
+    "category": "",
+    "keyId": "5036572721315d12aaf769bb142f43fe",
+    "key": "86fefa8b4f86639d644f03f7bccdc882",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTamil.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTamil_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "MBC",
+    "id": "631",
+    "category": "",
+    "keyId": "456cd7010210568a88fe23e2db19262e",
+    "key": "c3e3e0d6ef18c043fbb172786606937b",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/MBC_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sakshi tv",
+    "id": "632",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sakshi_tv_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DY 365",
+    "id": "633",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DY_365.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DY_365_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Flower TV",
+    "id": "634",
+    "category": "",
+    "keyId": "442ef9bd1f175d81ad4ef6e2039621fb",
+    "key": "5bae63aec5c404b3f25073bcf1f0ba98",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Flower_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Polimer News",
+    "id": "636",
+    "category": "",
+    "keyId": "ba0a790e27b95d8e9b8efbed923167f6",
+    "key": "19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "North East Live",
+    "id": "637",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/North_East_Live_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Telugu",
+    "id": "638",
+    "category": "",
+    "keyId": "fc160005672554dab9882d0092e0635d",
+    "key": "efada6d2baa8b99416f6431e0b0dc19d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTelugu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTelugu_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Ramdhenu",
+    "id": "639",
+    "category": "",
+    "keyId": "517c31079a9259f39bf7c48c7883b821",
+    "key": "58e7846a8e73b8f9299f2d79c912d81e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ramdhenu_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "ABP Asmita",
+    "id": "641",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ABP_Asmita_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "VTV Gujarati",
+    "id": "642",
+    "category": "",
+    "keyId": "75990d8a95d152a19b02aae7b726fb65",
+    "key": "b60b66712210be88f0f0a8e86506573c",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/VTV_Gujarati_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "GS TV",
+    "id": "643",
+    "category": "",
+    "keyId": "60c4e9543cfc594090b99eef03ebd591",
+    "key": "b836d51266843f42d910ad20b883fa3d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/GS_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "NTV",
+    "id": "646",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/NTV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Pratidin Time",
+    "id": "647",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pratidin_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Pratidin_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Mazhavil Manorama",
+    "id": "648",
+    "category": "",
+    "keyId": "8f8430fc6c425e948af4f348d4e7e01e",
+    "key": "80ebeed47b6d29c9032ed64ed2b93251",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Mazhavil_Manorama_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj News Malayalam",
+    "id": "650",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_Malayalam_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj News Kannada",
+    "id": "651",
+    "category": "",
+    "keyId": "619eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "726eb5cdb6a3876cbee44e36c11ae1bb",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_Kannada_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Bharat",
+    "id": "652",
+    "category": "",
+    "keyId": "2105c1b37d2657e48bc856506c387e10",
+    "key": "b74a42edb18e6833c71ff3f9c663fb49",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_SANGAM_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 Kannada",
+    "id": "653",
+    "category": "",
+    "keyId": "42cc2fde039a5988a5c4b192a006b0b8",
+    "key": "f9b6e4d95d108875de40c20d253aeffa",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18Kannada.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18Kannada_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Punjab Haryana HP",
+    "id": "654",
+    "category": "",
+    "keyId": "719eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "f4351047954c4c4cb660493a297c5505",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_Punjabi_HP_Haryana_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 Punjab Haryana",
+    "id": "655",
+    "category": "",
+    "keyId": "77d8161b312b5c51b65f87d40944fddb",
+    "key": "1cca42b25f3e038fc14698d05fdeb4fe",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18PunjabHaryana.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18PunjabHaryana_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News 9",
+    "id": "656",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News9.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News9_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Business",
+    "id": "657",
+    "category": "",
+    "keyId": "054899782c3c5cac8ef7cb015c556afd",
+    "key": "da8e35771cdfee9a428a47bbc8ff6451",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_Business_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee MP Chattisgarh",
+    "id": "658",
+    "category": "",
+    "keyId": "4e88fa78a10b5aaf889a77194e92f95d",
+    "key": "74ca4352a37d652c618d4771f6cb16b7",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_News_MP_Chattisgarh_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Rajasthan",
+    "id": "659",
+    "category": "",
+    "keyId": "8f93e68cfa7e533082c24ae11049b7e1",
+    "key": "576e7aece30f1840937fa93a02cd0a1f",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_Rajasthan_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Bihar Jharkhand",
+    "id": "661",
+    "category": "",
+    "keyId": "9d09ea59dacb5ed7b3398d0dedbd150b",
+    "key": "a31a72c840d59a0aee3f64655904ae10",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_Purvaiya_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Manorama News",
+    "id": "662",
+    "category": "",
+    "keyId": "e535383111765053a2f1c70260c9cabc",
+    "key": "77faac4d755c1c2fb4f9f5d42baf1282",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Manorama_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj News Telugu",
+    "id": "664",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_Telugu_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "HM TV",
+    "id": "665",
+    "category": "",
+    "keyId": "2ee3f53c6ec2553c95c46d892ae7645c",
+    "key": "e3d43692c38411ddc0970e768132afe5",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/HM_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "ABN Andhra Jyothi",
+    "id": "666",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ABN_Andhra_Jyothi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "T News",
+    "id": "667",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/T_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "TV 5 News",
+    "id": "668",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/TV_5_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "6 TV",
+    "id": "670",
+    "category": "",
+    "keyId": "170250c70403592fb0aede69a2251842",
+    "key": "3176f56685c49cf2ec9e66209f50e3a1",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/6_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/6_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sathiyam TV",
+    "id": "671",
+    "category": "",
+    "keyId": "ef1b4852e5fd55d08570ab7beff3d5b4",
+    "key": "1ed05f086bf361e5e252b9e7b4167dc5",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sathiyam_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "ABP Ananda",
+    "id": "672",
+    "category": "",
+    "keyId": "e55dd3f7d3755c95b6dd9ea3d011e4b3",
+    "key": "ab0b591dfee7651a2fbeee6882cb0e57",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ABP_Ananda_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News7 Tamil",
+    "id": "673",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News7_Tamil_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Assam Talks",
+    "id": "675",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Assam_Talks_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Puthiya Thalimurai",
+    "id": "677",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Puthiya_Thalimurai_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sun Udaya Movies",
+    "id": "678",
+    "category": "",
+    "keyId": "0e2bcf67277a54bfadc2f021a3b6f816",
+    "key": "390ac32b44931c6eb64c81e6615f9711",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Movies.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Movies_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj Digital Plus",
+    "id": "683",
+    "category": "",
+    "keyId": "2773e9650f9b5f6ba411dfd53cdf7912",
+    "key": "57e6dcc6387ceace62737326811a1ef5",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sun Gemini Life",
+    "id": "684",
+    "category": "",
+    "keyId": "89887cc3539757c4802bb3f4b1bed42f",
+    "key": "9d02cba14dd041059c40bf3070d7f32e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Alankar",
+    "id": "686",
+    "category": "",
+    "keyId": "7ae217bed786540290766804a47b9fd2",
+    "key": "10abe8fa526938fbb0fc5d224f5d654e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Alankar_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Alankar_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News Time TV",
+    "id": "687",
+    "category": "",
+    "keyId": "c7c8992263b65b64968ea7b3c08f9b9c",
+    "key": "1c0d32c907735fa40aee77e274e56d64",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News_Time_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Kannada",
+    "id": "689",
+    "category": "",
+    "keyId": "81315ac468145b019e76354c5f5279cd",
+    "key": "3d19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKannada.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeKannada_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Bangla",
+    "id": "690",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Bangla_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Saam Tv",
+    "id": "691",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Saam_Tv_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "news18 Bihar Jharkhand",
+    "id": "693",
+    "category": "",
+    "keyId": "d267777c26755c52b6971b41702c45ac",
+    "key": "becc53de132aadc7d24702963bc91df9",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18BiharJK.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18BiharJK_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 JKLH",
+    "id": "694",
+    "category": "",
+    "keyId": "2f4318ed9b78535b8822c440f370699f",
+    "key": "dc651139e571d8fef4cfb58904afe7b6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18JKLH.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18JKLH_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Sahayadri",
+    "id": "695",
+    "category": "",
+    "keyId": "9ea6b5d48dde53d591388cedcd3724b6",
+    "key": "36bc0e37c348833752b6c5f3ca5e714d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Sahayadri_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 Odia",
+    "id": "696",
+    "category": "",
+    "keyId": "d807002486875d09a2a7446cb90d1828",
+    "key": "25d219eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18odia.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18odia_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sony aath",
+    "id": "697",
+    "category": "",
+    "keyId": "ea3ad98932fd5df5ab26e5e845e4b941",
+    "key": "86b6dd76818b8fa7a0bbd0f6113d65b0",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyAATH.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyAATH_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Aakash Aath",
+    "id": "698",
+    "category": "",
+    "keyId": "da69984ca32f57e79e0243133acd5d1d",
+    "key": "32805a05ece9448890ffea63ddf26d20",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Aakaash_bangla_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Malayalam",
+    "id": "699",
+    "category": "",
+    "keyId": "8f507b96cd2655e798b8db80aaf5243f",
+    "key": "1517bfea8b1ca61ecabc750b9a28d181",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Malayalam_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Oriya",
+    "id": "702",
+    "category": "",
+    "keyId": "19980267d4775f2ebaac0db1e0e89e3a",
+    "key": "0f93eac75dbc0b8ff70cc084d1f83061",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Oriya_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Tarang",
+    "id": "703",
+    "category": "",
+    "keyId": "7ce9e0ffd01256d885f20f2dbd483a81",
+    "key": "59b29463ce967c41658522cfcf1c409c",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Tarang_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "OTV",
+    "id": "704",
+    "category": "",
+    "keyId": "27765041f1e85f669188f737a6017452",
+    "key": "6b992a6248da09765ad1166a9ce15526",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/OTV_Odisha_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/OTV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Polimer TV",
+    "id": "705",
+    "category": "",
+    "keyId": "00b981848b1a5d979668260a22bd4ae1",
+    "key": "c74650e08f78101679685f459ba6e8d4",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Saptagiri",
+    "id": "706",
+    "category": "",
+    "keyId": "0d11e12870645293b3ead5c6f7e5f239",
+    "key": "b53cbff88cf00ecb57da3cce5d219a21",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Saptagiri_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj TV",
+    "id": "707",
+    "category": "",
+    "keyId": "1f0a57e1b999520d99fc92b43630e722",
+    "key": "fa59423030d70507ec1cac2cfac2050d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Makkal TV",
+    "id": "708",
+    "category": "",
+    "keyId": "3ff69909b2a95c038b6ff13c2e7d20ca",
+    "key": "57adacb2033070c8315e2210489127a9",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Makkal_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Kairali TV",
+    "id": "710",
+    "category": "",
+    "keyId": "a37260fb98b05cb8804d9a0b496fe5d0",
+    "key": "35732792d319aa076e6ecb02ba84e8d4",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kairali_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD urdu",
+    "id": "712",
+    "category": "",
+    "keyId": "fd50df2004a55da2b2d5de4d1cd2e914",
+    "key": "c43e19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_urdu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_urdu_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD9 chandana (kannada)",
+    "id": "713",
+    "category": "",
+    "keyId": "21fa3cde636f5b5491e20337282e46ab",
+    "key": "05be828fc2f349d662e0e00b04924c8f",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD9_chandana_kannada_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Girnar",
+    "id": "714",
+    "category": "",
+    "keyId": "331a020eee885d9e916a28bff8eee16c",
+    "key": "e2b2410bd46ecf86f519c2e5cf142e03",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Girnar_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Punjabi",
+    "id": "715",
+    "category": "",
+    "keyId": "5d6179c76f22554ca60760694e8db403",
+    "key": "82752f02d88a71493d1266b54f7f34a8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Punjabi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD Kashir",
+    "id": "716",
+    "category": "",
+    "keyId": "c5696f4cbf4554ae9a87ce2b834540b6",
+    "key": "135700d3bcb666151872118b029f8190",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Kashir_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News18 Bangla",
+    "id": "717",
+    "category": "",
+    "keyId": "596cf8674abe57379d3e997c48143397",
+    "key": "cd5a906adeb08dd7726b5722ecf234fe",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18Bangla.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News18Bangla_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Kanak News",
+    "id": "718",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kanak_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Nepal one",
+    "id": "719",
+    "category": "",
+    "keyId": "91184d3e4af75dda82ee510c148181ef",
+    "key": "c9dfc42fc68874e47e5ffd57c9a7cb9d",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nepal_one_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Sarthak",
+    "id": "722",
+    "category": "",
+    "keyId": "77c5af0e782c574e8c545320f4450c54",
+    "key": "4da4719eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeSarthak.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeSarthak_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Amrita TV",
+    "id": "723",
+    "category": "",
+    "keyId": "5846662de10353b58c753c58181999a9",
+    "key": "861fc019eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Amrita_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Zee Delhi NCR Haryana",
+    "id": "724",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_Kalinga_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Kairali News",
+    "id": "725",
+    "category": "",
+    "keyId": "faf2dbff681f5499b87fc7995530f369",
+    "key": "6f81c856f02899508842cbaf777c16d7",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kairali_People_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "DD5 Podhigai",
+    "id": "726",
+    "category": "",
+    "keyId": "98cfe2f887bb5c69b08138fa2cbef75f",
+    "key": "d0a8380d969c4779321ffafa7656b7d7",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD5_Podhigai_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Vasanth TV",
+    "id": "727",
+    "category": "",
+    "keyId": "a6e475d6fbba53c2a6737662e5c06f01",
+    "key": "c38f7613812e643c11402bdaca2ab816",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Vasanth_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Salaam TV",
+    "id": "728",
+    "category": "",
+    "keyId": "d1884ad54bbe5b7e908fab538911782c",
+    "key": "9be51832b2e6f3b79a6e6708b8360f4f",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Salaam_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Salaam_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sun Gemini Comedy",
+    "id": "729",
+    "category": "",
+    "keyId": "a39a9699a2e354ce9312d2933d8bf83c",
+    "key": "4bc2a11372933c408bc27b11d832d836",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Kairali WE TV",
+    "id": "731",
+    "category": "",
+    "keyId": "379adaf3d1135dea99716a8947742280",
+    "key": "f9fd54469f57b13bd145b5b9b59ba8a0",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kairali_WE_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "9X Tashan",
+    "id": "732",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9xTashan.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/9xTashan/HLSPartner/index.m3u8"
+  },
+  {
+    "name": "Sun Udaya Comedy",
+    "id": "733",
+    "category": "",
+    "keyId": "3fad8a9054e3594591e0d66b1fdf63b5",
+    "key": "5937bb76b8e4ca9ccc15832644a816b2",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Comedy.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Comedy_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Vissa TV",
+    "id": "734",
+    "category": "",
+    "keyId": "c419eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "3c4ac4012b39a55a94618381ed00c4b4",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Vissa_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sangeet Marathi",
+    "id": "735",
+    "category": "",
+    "keyId": "7f462e785a2c53649ab662034077766c",
+    "key": "5c6b5dcfcea6528f915e4c3dad9c8e31",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sangeet_Marathi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj Music Telugu",
+    "id": "737",
+    "category": "",
+    "keyId": "f3634373f68d5959b7f881af8669f47e",
+    "key": "15a1dc309da43401ad2415e6201ff084",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Music_Telugu_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj Music Malayalam",
+    "id": "739",
+    "category": "",
+    "keyId": "27e4a49618e55cc094edba05269a69a3",
+    "key": "051b72f128d9e1cfc07edc5c72eb3b1f",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Music_Malayalam_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sangeet Bangla",
+    "id": "740",
+    "category": "",
+    "keyId": "85161c644e82582288aa5c93d97ba0e7",
+    "key": "22c6dda31f7b1e15ae70463129b497a4",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sangeet_Bangla_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sangeet Bhojpuri",
+    "id": "741",
+    "category": "",
+    "keyId": "77ac3922e3ae5597b2bb0a52afb88d0f",
+    "key": "35030fa506bf92866f369da6d6e917fa",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sangeet_Bhojpuri_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "mh1 (Music)",
+    "id": "742",
+    "category": "",
+    "keyId": "75a6419eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "93c58c37fb3d566733d7dee0eb302e93",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/mh1_Music_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj Music Kannada",
+    "id": "743",
+    "category": "",
+    "keyId": "24fc6938b3ec5ac18a29dc55c7ec979d",
+    "key": "1ab753e27f74384850992a0a6bddd708",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Music_Kannada_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sun Udaya Music",
+    "id": "744",
+    "category": "",
+    "keyId": "60b098f49c995f8ab01f093833ffa7ea",
+    "key": "21fa4199211c7f0f682d8ef6c2198683",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Music_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sun Surya Music",
+    "id": "747",
+    "category": "",
+    "keyId": "6dec22d787845c828b7e7b08c4036cf6",
+    "key": "b46904ae1a6fcae716b8e8cdf78de849",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Music_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj Musix",
+    "id": "748",
+    "category": "",
+    "keyId": "d5968d25bb125bd6a8a1afe4b45d8711",
+    "key": "ecb4f2a37bb7511baf2a3a93cdef375e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Musix_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Tarang Music",
+    "id": "751",
+    "category": "",
+    "keyId": "02ef85a975285d18a54626a65d20e17b",
+    "key": "8d4b895b749557ec3f6d6dae4c254607",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_Music.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Tarang_Music_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Colors Marathi HD",
+    "id": "755",
+    "category": "",
+    "keyId": "10f25f26738a531a82501d1edb967ad2",
+    "key": "6a8ba19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Marathi_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Colors Bangla HD",
+    "id": "756",
+    "category": "",
+    "keyId": "e524d8392b6c555ca016b11970ad0f07",
+    "key": "3f7a22edfe47052727f70701a472b689",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Colors Kannada HD",
+    "id": "757",
+    "category": "",
+    "keyId": "5e63b6c6d14f5f8ea37596b8328d4147",
+    "key": "37fc834beaadeb1d3d4e30a2a1b0a1ec",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Kannada_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Star Maa Movies HD",
+    "id": "760",
+    "category": "",
+    "keyId": "a78f7295d78453c69f9849d40095be2d",
+    "key": "a9d4d809e74edc7625c4fe7ffc9e4647",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Movies_HD_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sony Pix HD",
+    "id": "762",
+    "category": "",
+    "keyId": "1ff1fe6b2519562ca3a28602592cd547",
+    "key": "d43132eca3cefc4e29ca8fe548a0638b",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPIX_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Channel News Asia International",
+    "id": "764",
+    "category": "",
+    "keyId": "a46b1c3e710f5485bebd0c689c2694b0",
+    "key": "2f1d9d18643bbbc8f0f00590cf9175ba",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Channel_News_Asia_International_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Jonack",
+    "id": "765",
+    "category": "",
+    "keyId": "6ad90c20efca51b78a536481bef90cd1",
+    "key": "eb47d69aeb2a045ed16bbccaa648d42e",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jonack_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Raj News 24x7",
+    "id": "767",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_24x7_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Jan TV",
+    "id": "768",
+    "category": "",
+    "keyId": "285a342d80445ade96f8ad27e6c877c3",
+    "key": "787a2dad6cb246c9d2861515904aa39a",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jan_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "V6 News",
+    "id": "769",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/V6_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Kashish News",
+    "id": "770",
+    "category": "",
+    "keyId": "47d720a8f70955658397d43f4be69d54",
+    "key": "5046c5ae2ffe9a1fa07b976e606b5719",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kashish_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "CVR OM Spiritual",
+    "id": "772",
+    "category": "",
+    "keyId": "8465bdbdc5ae556cbaaa4f8b66ac7d52",
+    "key": "aa23a25ad17a63b5c2f06afcfb870cd7",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CVR_OM_Spiritual_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Public Music",
+    "id": "773",
+    "category": "",
+    "keyId": "2ce6020f14ad5adc882fd0e4e218a5f4",
+    "key": "a9f45e2b78db3ae01d642d910a4d24d8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Public_Music_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "CVR Health",
+    "id": "774",
+    "category": "",
+    "keyId": "f9dc8edc067b5090bb9eba3749e7adaf",
+    "key": "1027c4fd3486115fb06e7650dd4c7cc6",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CVR_Health_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Vanitha",
+    "id": "775",
+    "category": "",
+    "keyId": "e6d2c19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "7e19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Vanitha_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Bhakti TV",
+    "id": "776",
+    "category": "",
+    "keyId": "5f395a634dec56aea8e7ef9f088e8e43",
+    "key": "f799f108446f372391f020502a419c23",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Bhakti_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Aradhana TV",
+    "id": "777",
+    "category": "",
+    "keyId": "86cb0ca747d257508a3d483fc383689e",
+    "key": "e9ae7225de234cfe4b029087ef216b18",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Aradhana_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Public TV",
+    "id": "778",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Public_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Prameya News 7",
+    "id": "779",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Prameya_News_7_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Mathrubhumi News",
+    "id": "780",
+    "category": "",
+    "keyId": "28f04aad6cc651f9b1412925a80e2e76",
+    "key": "5b9c5f3000e926934f0d48672ca59e91",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Mathrubhumi_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Kalinga TV",
+    "id": "781",
+    "category": "",
+    "keyId": "a0fe9baabcd75897b907c255f6afece0",
+    "key": "f063cce293bf2986c60f7cdace007082",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kalinga_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sandesh News",
+    "id": "782",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sandesh_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "K News India",
+    "id": "783",
+    "category": "",
+    "keyId": "38cfc3af875f52b4a3835a91ebbea1ae",
+    "key": "4722b7a6a6c7bc03591c0406e72d76c0",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/K_News_India_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "CVR News",
+    "id": "784",
+    "category": "",
+    "keyId": "ba2330b2dd5657ba9c314abf9485a4eb",
+    "key": "e7cc7c86a6d2cef81944d5c532ca1020",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CVR_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Colors Super",
+    "id": "785",
+    "category": "",
+    "keyId": "b97b19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
+    "key": "a0a4a61162e973471e59e05c9ebab1ca",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsSuper.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsSuper_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Kappa TV",
+    "id": "786",
+    "category": "",
+    "keyId": "03dfdaa1d3e150508ba9e26c05be7e90",
+    "key": "0352c4fd4204955e3b152ee551d2bd31",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kappa_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "CVR English",
+    "id": "787",
+    "category": "",
+    "keyId": "1eca41bd61605de7a3d09c038bf267f9",
+    "key": "a9e9a441b1a482be92b4048bc24f9ef4",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CVR_English_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "India Voice",
+    "id": "788",
+    "category": "",
+    "keyId": "7b2f8d9cc7ab5701b0611ee031f0919d",
+    "key": "2b8e88ee361735ce7d667468afddcef3",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/India_Voice_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "JK 24x7 News",
+    "id": "789",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/JK_24x7_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "I News",
+    "id": "790",
+    "category": "",
+    "keyId": "3d5267c4b44a58318a1e58dc21ab31ba",
+    "key": "6850fe178bd1f4f25317a17031a0ddd2",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/I_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Taaza TV",
+    "id": "791",
+    "category": "",
+    "keyId": "4c44ef8e272b58d998e4c1d2f3dff60a",
+    "key": "174cc6aa26b8f932617458701e6fa7b3",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Taaza_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "News State UK UP",
+    "id": "792",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/News_State_UK_UP_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Peace of Mind",
+    "id": "794",
+    "category": "",
+    "keyId": "059973c866635647b6b762e715da1e77",
+    "key": "5eb37a2bd74633c0a68053d35e956261",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Peace_of_Mind_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Peppers TV",
+    "id": "796",
+    "category": "",
+    "keyId": "130db049d48151f9bff9eab26044bf01",
+    "key": "a59f6bf5bd47145426117ff41908b9da",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Peppers_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Divya TV",
+    "id": "801",
+    "category": "",
+    "keyId": "8cb14e9e7df25f9db0173562fe18374b",
+    "key": "cd5d005670ac0792ca3eb782c0e8d42a",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Divya_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Tunes 6",
+    "id": "803",
+    "category": "",
+    "keyId": "94903701b04e50e6b8a22fc68e8ff75a",
+    "key": "854801b80cbc750d842bb4ca67b525bf",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Tunes_6_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Samachar Plus",
+    "id": "804",
+    "category": "",
+    "keyId": "cf7890a6268e5fde8c31165d985429fb",
+    "key": "dd97f93c5eed1c46be22f69e513e74d2",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Samachar_Plus_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Gulistan News",
+    "id": "807",
+    "category": "",
+    "keyId": "33bd380c97d252a0b9835fda391d395a",
+    "key": "555d0da3a0dbd38d02b7ecc29d003e23",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gulistan_News.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Gulistan_News_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Hindi Khabar",
+    "id": "808",
+    "category": "",
+    "keyId": "ee0c5e1cbd0256308685cceeed807131",
+    "key": "27149268f3ef25f1ef4c25ae7724a0be",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Hindi_Khabar_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Maha Movies",
+    "id": "809",
+    "category": "",
+    "keyId": "20940dfb18dd5dd48d5fd0377f47eb78",
+    "key": "868f9d7276900b06da7511a8f09484be",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Maha_Movies_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Janam TV",
+    "id": "810",
+    "category": "",
+    "keyId": "0000",
+    "key": "0000",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Janam_TV_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Travelxp Tamil",
+    "id": "814",
+    "category": "",
+    "keyId": "cf6ced63e3985712bfac07d09f21f2d6",
+    "key": "703e7ab711207c756355edf6c38d96cc",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_Tamil_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Sonic Hindi",
+    "id": "815",
+    "category": "",
+    "keyId": "14af5805a98f52bdb1001f47ee99a211",
+    "key": "fd7eb438ff90f8412832e230dd8db804",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Hindi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Cartoon Network Hindi",
+    "id": "816",
+    "category": "",
+    "keyId": "dfdcfe466f865e51ac6b9345a03478fc",
+    "key": "4cfddb414841586f0f992f2810ec2931",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHindi.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Cartoon Network Tamil",
+    "id": "817",
+    "category": "",
+    "keyId": "553fc9bdb0115b24b23d04be203d1b9d",
+    "key": "a220f0a32aaee1e6989ef8e6a6728fe1",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTamil.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNTamil_MOB/WDVLive/index.mpd"
+  },
+  {
+    "name": "Puthu Yugam",
+    "id": "824",
+    "category": "",
+    "keyId": "52fa7c567015541b99106fcI encountered an error doing what you asked. Could you try again?
