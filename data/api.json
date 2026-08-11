@@ -533,7 +533,16 @@
   {
     "name": "Zee TV HD",
     "id": "167",
-    "category": "",
+    "category": "Entertainment",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd",
+    "keyId": "6a472713dd855718b1dc24986efbc752",
+    "key": "4215cd7cf5915d1c4f704137ad211f45"
+  },
+  {
+    "name": "Zee TV HD",
+    "id": "167-2",
+    "category": "Entertainment",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png",
     "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd",
     "keyId": "65c3633157574361b191059e46e72968",
@@ -974,7 +983,16 @@
   {
     "name": "Zee Anmol Cinema",
     "id": "415",
-    "category": "",
+    "category": "Movies",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd",
+    "keyId": "d5f46c3bb170561ab93db79c032825b5",
+    "key": "a834101c520ab2af65add91e5e9a2b61"
+  },
+  {
+    "name": "Zee Anmol Cinema",
+    "id": "415-2",
+    "category": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png",
     "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd",
     "keyId": "819eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK",
@@ -1144,8 +1162,17 @@
   },
   {
     "name": "& TV HD",
-    "id": "undefined",
-    "category": "",
+    "id": "472",
+    "category": "Entertainment",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png",
+    "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd",
+    "keyId": "3698f70a682b503599cbc0fcae1f4df4",
+    "key": "91a7ebf70d1fd76f59b9970c9525dad7"
+  },
+  {
+    "name": "& TV HD",
+    "id": "472-2",
+    "category": "Entertainment",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png",
     "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd",
     "keyId": "67d18634ccb04875875c60fb8d9caaba",
