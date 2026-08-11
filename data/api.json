@@ -587,11 +587,20 @@
   {
     "name": "& Pictures HD",
     "id": "185",
-    "category": "",
+    "category": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png",
     "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd",
     "keyId": "de8045e9f0fb4d03845dcc4a8bd7712a",
     "key": "6807bd09bda34ada83152908192af6d6"
+  },
+  {
+    "name": "& Pictures HD",
+    "id": "185-2",
+    "category": "Movies",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png",
+    "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/AndPicturesHD_MOB/WDVLive/index.mpd",
+    "keyId": "09187bccb7ec59428352a31b4b321ce0",
+    "key": "25b08b1c7a004e43ef92c239f93e6613"
   },
   {
     "name": "CNBC Awaaz",
