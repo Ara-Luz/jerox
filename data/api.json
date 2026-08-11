@@ -4582,7 +4582,7 @@
   },
   {
     "name": "Dangal",
-    "id": "undefined",
+    "id": "dangal",
     "category": "",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png",
     "mpd": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
@@ -4591,7 +4591,7 @@
   },
   {
     "name": "Dangal 2",
-    "id": "undefined",
+    "id": "dangal-2",
     "category": "",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png",
     "mpd": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
@@ -4651,15 +4651,6 @@
     "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_HD_Plus_MOB/WDVLive/index.mpd",
     "keyId": "b8972143db295ee891a18692ddee0f8b",
     "key": "c48a806fadcb2ef8ae800d128c6f3332"
-  },
-  {
-    "name": "Epic Music",
-    "id": "1002",
-    "category": "",
-    "logo": "https://www.epiccompany.com/assets/img/EPIC_MUSIC.png",
-    "mpd": "http://103.175.73.12:8080/live/469/master.m3u8",
-    "keyId": "0000",
-    "key": "0000"
   },
   {
     "name": "Sony Marathi",
@@ -6210,24 +6201,6 @@
     "key": "19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK"
   },
   {
-    "name": "Goldmines Bollywood",
-    "id": "1004",
-    "category": "",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg",
-    "mpd": "http://103.175.73.12:8080/live/52/52_0.m3u8",
-    "keyId": "0000",
-    "key": "0000"
-  },
-  {
-    "name": "Goldmines Movies",
-    "id": "undefined",
-    "category": "",
-    "logo": "https://pbs.twimg.com/media/G5xKU0gbkAA1QuA.jpg",
-    "mpd": "http://103.175.73.12:8080/live/51/51_0.m3u8",
-    "keyId": "0000",
-    "key": "0000"
-  },
-  {
     "name": "Goldmines",
     "id": "1005",
     "category": "",
@@ -6238,7 +6211,7 @@
   },
   {
     "name": "Goldmines 2",
-    "id": "undefined",
+    "id": "g-2",
     "category": "",
     "logo": "https://i.postimg.cc/tTJMDJ95/Goldmines2.png",
     "mpd": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
@@ -6247,7 +6220,7 @@
   },
   {
     "name": "Goldmines Action",
-    "id": "undefined",
+    "id": "g-a",
     "category": "",
     "logo": "https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",
     "mpd": "http://103.175.73.12:8080/live/584/master.m3u8",
@@ -6885,8 +6858,8 @@
     "key": "0000"
   },
   {
-    "name": "h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg\",Unite8 Sports 2 HD",
-    "id": "undefined",
+    "name": "Unite8 Sports 2 HD",
+    "id": "un-2-hd",
     "category": "",
     "logo": "https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg",
     "mpd": "https://yowaimo.in/SF-SS/745202.m3u8",
@@ -6895,7 +6868,7 @@
   },
   {
     "name": "Unite8 Sports 1 HD | TATA PLAY",
-    "id": "undefined",
+    "id": "un-1-hd",
     "category": "",
     "logo": "https://i.postimg.cc/FKh4DWFG/unite8-1.jpg",
     "mpd": "http://103.155.18.186:8000/play/a125/index.m3u8",
@@ -6904,7 +6877,7 @@
   },
   {
     "name": "Unite8 Sports 2 HD | TATA PLAY",
-    "id": "undefined",
+    "id": "un-2-hd-2",
     "category": "",
     "logo": "https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg",
     "mpd": "http://103.155.18.186:8000/play/a126/index.m3u8",
@@ -6913,7 +6886,7 @@
   },
   {
     "name": "TSN 1",
-    "id": "undefined",
+    "id": "tsn-1",
     "category": "",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",
     "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
